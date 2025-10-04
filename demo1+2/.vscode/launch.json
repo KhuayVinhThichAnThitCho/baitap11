@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Bai11Application<bai11>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.bai11.Bai11Application",
+            "projectName": "bai11",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
